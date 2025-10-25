@@ -16,8 +16,8 @@ echo -e " ${BLUE}
                / /___/ /___    ___/ / __  / /___/ /___/ /___
                \____/_____/   /____/_/ /_/_____/_____/_____/
                              ${RED}
-                        Coded By Kirov Elite Group
-                https://github.com/FreeromSec1337/ClShell
+                        Coded By Zircon Group
+                https://github.com/0xZOV/CLShell
 
             ===================================================
 ${RESET}"
