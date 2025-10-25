@@ -1,4 +1,4 @@
-![Banner](s.png)
+![Banner](banner.png)
 
 # ClShell - Simple PHP Shell Client
 
